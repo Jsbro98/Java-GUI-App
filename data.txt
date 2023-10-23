@@ -1,7 +1,0 @@
-Area Text:
-Hello
-Beep
-Meep
-
-Pane Text:
-True
