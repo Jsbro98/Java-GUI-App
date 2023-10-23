@@ -128,6 +128,7 @@ public class App {
         } catch (IOException err) {
             throw new IOException(err);
         }
+        System.out.println("This is a test for git");
     }
 
     // Used to adjust resultPane styling
